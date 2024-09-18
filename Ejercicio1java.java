@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+
+//PARADIGMAS DE PROGRAMACIÓN
+//MADE BY FABS 3BV2
 public class FigurasGeometricas {
 
     // Función del círculo

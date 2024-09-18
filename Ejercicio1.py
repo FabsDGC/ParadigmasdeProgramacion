@@ -1,6 +1,7 @@
 import math
 
 #made by fabs 3BV2
+#PARADIGMAS DE pROGRAMACIÓN
 #función del circulo
 def circulo():
     radio = float(input("Introduce el radio del círculo en metros: "))
