@@ -5,7 +5,8 @@ def menu():
     print('2.Buscar libro')
     print('3.Pedir libro prestado')
     print('4.Devolver libro')
-    print('5.Mostrar lista de libros')
+    print('5.Mostrar lista de libros')1
+    
     print('6.Salir')
     print('Ingresa una opcion para poder continuar:')
 
